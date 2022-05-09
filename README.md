@@ -1,2 +1,4 @@
 # react-select-async-paginate-example
-Created with CodeSandbox
+
+## Show demo
+https://codesandbox.io/s/react-select-async-paginate-example-forked-kpqmok?file=/src/App.js
